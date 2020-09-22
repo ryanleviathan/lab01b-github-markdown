@@ -38,3 +38,8 @@ aloysius | scarved bear plushy | 10
 Evelyn Waugh | writer | 8
 Edward | sparklevampire | __stalker__
 Spike | sharpy-teeth vampire | forever the best
+
+Oh yeah, and never, ever, everever do this:
+```
+rm -rf /
+```
